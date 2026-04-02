@@ -1,0 +1,6 @@
+jupyter #for notebook
+numpy #for math and arrays
+pandas #for tables data handling
+matplotlib #for charts and graphs
+scikit-learn #for AI tools
+rdkit-pypi #for chemistry tools
